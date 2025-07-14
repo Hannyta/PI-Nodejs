@@ -1,13 +1,7 @@
-const products = [
-    {id: 1, name: "Camiseta Deportiva", price: 150},
-    {id: 2, name: "Zapatos Running", price: 1300},
-    {id: 3, name: "Mochila Escolar", price: 350},
-    {id: 4, name: "Auriculares Bluetooth", price: 800},
-    {id: 5, name: "Botella Térmica", price: 230},
-]
+import * as service from '../services/products.service.js';
 
 export const getAllProducts = (req, res) => {
-    res.json(products);
+    res.json(service.getAllProducts());
 };
 
 export const searchProduct = (req, res) => {
@@ -36,18 +30,18 @@ export const getProdcutById = (req, res) => {
     res.json(product);
 };
 
-export const postNewProduct = (req, res) => {
+export const createProduct = (req, res) => {
 
     const {name, price} = req.body;
-    const newProduct = {
+    const createProduct = {
         id: products.length + 1,
         name,
         price,
     };
 
-    products.push(newProduct);
+    products.push(createProduct);
 
-    res.status(201).json(newProduct);
+    res.status(201).json(createProduct);
 };
 
 export const putProductId = (req, res) => {

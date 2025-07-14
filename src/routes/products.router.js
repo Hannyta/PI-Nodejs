@@ -1,5 +1,5 @@
 import {Router} from 'express';
-import { getAllProducts, searchProduct, getProdcutById, postNewProduct, putProductId, deleteProductId } from '../controllers/products.controller.js';
+import { getAllProducts, searchProduct, getProdcutById, createProduct, putProductId, deleteProductId } from '../controllers/products.controller.js';
 
 const router = Router();
 
@@ -15,7 +15,7 @@ router.get('/products', getAllProducts);
 router.get('/products/search', searchProduct);
 router.get('/products/:id', getProdcutById);
 
-router.post('/products', postNewProduct);
+router.post('/products/create', createProduct);
 
 router.put('/products/:id', putProductId);
 

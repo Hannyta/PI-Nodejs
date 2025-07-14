@@ -1,39 +1,24 @@
-import {router} from 'express';
+import {Router} from 'express';
+import { getAllProducts, searchProduct, getProdcutById, postNewProduct, putProductId, deleteProductId } from '../controllers/products.controller.js';
 
 const router = Router();
 
-const products = []
+const products = [
+    {id: 1, name: "Camiseta Deportiva", price: 150},
+    {id: 2, name: "Zapatos Running", price: 1300},
+    {id: 3, name: "Mochila Escolar", price: 350},
+    {id: 4, name: "Auriculares Bluetooth", price: 800},
+    {id: 5, name: "Botella Térmica", price: 230},
+]
 
-router.get('/products', (req, res) => {
-    res.json(products);
-});
+router.get('/products', getAllProducts);
+router.get('/products/search', searchProduct);
+router.get('/products/:id', getProdcutById);
 
-router.get('/products/search', (res, res) => {
-    const { name } = req.query;
+router.post('/products', postNewProduct);
 
-    const filteridProducts = products.filter((p) =>
-        p.name.toLowerCase().includes(name.toLowerCase())
-    );
-});
+router.put('/products/:id', putProductId);
 
-router.get('/products/:id', (req, res) => {
-    const { id } = req.params;
-
-    const product = products.find((item) => item.id == id);
-
-    if (!product) {
-        res.status(404).json({
-        status: 404,
-        mensaje: ' 🥲 El producto no existe ❌',
-        ruta: req.originalUrl
-        })
-    }
-
-    res.json(product);
-})
-
-router.post('/products', (req, res) => {
-    
-})
+router.delete('/products/:id', deleteProductId);
 
 export default router;

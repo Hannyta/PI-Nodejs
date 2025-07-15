@@ -3,19 +3,11 @@ import { getAllProducts, searchProduct, getProdcutById, createProduct, putProduc
 
 const router = Router();
 
-const products = [
-    {id: 1, name: "Camiseta Deportiva", price: 150},
-    {id: 2, name: "Zapatos Running", price: 1300},
-    {id: 3, name: "Mochila Escolar", price: 350},
-    {id: 4, name: "Auriculares Bluetooth", price: 800},
-    {id: 5, name: "Botella Térmica", price: 230},
-]
-
 router.get('/products', getAllProducts);
 router.get('/products/search', searchProduct);
 router.get('/products/:id', getProdcutById);
 
-router.post('/products/create', createProduct);
+router.post('/products', createProduct);
 
 router.put('/products/:id', putProductId);
 

@@ -1,4 +1,5 @@
 import * as service from '../services/products.service.js';
+import * as model from '../models/products.model.js';
 
 export const getAllProducts = (req, res) => {
     res.json(service.getAllProducts());
@@ -7,7 +8,9 @@ export const getAllProducts = (req, res) => {
 export const searchProduct = (req, res) => {
     const { name } = req.query;
 
-    const filteredProducts = products.filter((p) =>
+    const product = service.getAllProducts();
+
+    const filteredProducts = product.filter((p) =>
         p.name.toLowerCase().includes(name.toLowerCase())
     );
 
@@ -17,7 +20,7 @@ export const searchProduct = (req, res) => {
 export const getProdcutById = (req, res) => {
     const { id } = req.params;
 
-    const product = products.find((item) => item.id == id);
+    const product = service.getProductById(id);
 
     if (!product) {
         res.status(404).json({
@@ -31,15 +34,9 @@ export const getProdcutById = (req, res) => {
 };
 
 export const createProduct = (req, res) => {
+    const { name, price } = req.body;
 
-    const {name, price} = req.body;
-    const createProduct = {
-        id: products.length + 1,
-        name,
-        price,
-    };
-
-    products.push(createProduct);
+    const newProduct = model.createProduct({ name, price});
 
     res.status(201).json(createProduct);
 };

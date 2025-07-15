@@ -22,7 +22,7 @@ app.get('/', (req, res) => {
 app.use((req, res) => {
     res.status(404).json({
         status: 404,
-        mensaje: ' 🥲 La ruta que solicitaste no existe ❌',
+        mensaje: '😥 La ruta que solicitaste no existe ❌',
         ruta: req.originalUrl
     })
 });

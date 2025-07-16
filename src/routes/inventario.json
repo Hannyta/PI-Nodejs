@@ -1,6 +1,6 @@
 [
     {
-        "Codigo Propio": "0000000000000",
+        "Id": "0000000000000",
         "Rubro": "CERVEZA",
         "Categoria": "RUBIA",
         "SubCategoria": "LAGER",
@@ -14,7 +14,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000001",
+        "Id": "0000000000001",
         "Rubro": "VINO",
         "Categoria": "BLANCO",
         "SubCategoria": "DULCE",
@@ -28,7 +28,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000002",
+        "Id": "0000000000002",
         "Rubro": "VINO",
         "Categoria": "BLANCO",
         "SubCategoria": "CHARDONAY",
@@ -42,7 +42,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000003",
+        "Id": "0000000000003",
         "Rubro": "VINO",
         "Categoria": "TINTO",
         "SubCategoria": "MALBEC",
@@ -56,7 +56,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000004",
+        "Id": "0000000000004",
         "Rubro": "VINO",
         "Categoria": "TINTO",
         "SubCategoria": "BLEND",
@@ -70,7 +70,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000006",
+        "Id": "0000000000006",
         "Rubro": "VINO",
         "Categoria": "TINTO",
         "SubCategoria": "MALBEC",
@@ -84,7 +84,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000007",
+        "Id": "0000000000007",
         "Rubro": "VINO",
         "Categoria": "TINTO",
         "SubCategoria": "MALBEC",
@@ -98,7 +98,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000008",
+        "Id": "0000000000008",
         "Rubro": "VINO",
         "Categoria": "TINTO",
         "SubCategoria": "MALBEC",
@@ -112,7 +112,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000009",
+        "Id": "0000000000009",
         "Rubro": "VINO",
         "Categoria": "TINTO",
         "SubCategoria": "CABERNET SAUV",
@@ -126,7 +126,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000010",
+        "Id": "0000000000010",
         "Rubro": "VINO",
         "Categoria": "TINTO",
         "SubCategoria": "MALBEC",
@@ -140,7 +140,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000011",
+        "Id": "0000000000011",
         "Rubro": "VINO",
         "Categoria": "ROSE",
         "SubCategoria": "DULCE",
@@ -154,7 +154,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000012",
+        "Id": "0000000000012",
         "Rubro": "VINO",
         "Categoria": "TINTO",
         "SubCategoria": "MALBEC",
@@ -168,7 +168,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000013",
+        "Id": "0000000000013",
         "Rubro": "VINO",
         "Categoria": "TINTO",
         "SubCategoria": "MALBEC",
@@ -182,7 +182,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000014",
+        "Id": "0000000000014",
         "Rubro": "VINO",
         "Categoria": "TINTO",
         "SubCategoria": "MALBEC",
@@ -196,7 +196,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000015",
+        "Id": "0000000000015",
         "Rubro": "VINO",
         "Categoria": "TINTO",
         "SubCategoria": "MALBEC",
@@ -210,7 +210,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000016",
+        "Id": "0000000000016",
         "Rubro": "VINO",
         "Categoria": "BLANCO",
         "SubCategoria": "DULCE",
@@ -224,7 +224,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000017",
+        "Id": "0000000000017",
         "Rubro": "CERVEZA",
         "Categoria": "RUBIA",
         "SubCategoria": "LAGER",
@@ -238,7 +238,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000018",
+        "Id": "0000000000018",
         "Rubro": "SNACK",
         "Categoria": "CHOCOLATE",
         "SubCategoria": "RELLENO",
@@ -252,7 +252,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000019",
+        "Id": "0000000000019",
         "Rubro": "CERVEZA",
         "Categoria": "RUBIA",
         "SubCategoria": "LAGER",
@@ -266,7 +266,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000020",
+        "Id": "0000000000020",
         "Rubro": "CERVEZA",
         "Categoria": "RUBIA",
         "SubCategoria": "LAGER",
@@ -280,7 +280,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000021",
+        "Id": "0000000000021",
         "Rubro": "ESPUMANTE",
         "Categoria": "CHAMPAGNE",
         "SubCategoria": "",
@@ -294,7 +294,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000022",
+        "Id": "0000000000022",
         "Rubro": "CERVEZA",
         "Categoria": "RUBIA",
         "SubCategoria": "LAGER",
@@ -308,7 +308,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000023",
+        "Id": "0000000000023",
         "Rubro": "CERVEZA",
         "Categoria": "RUBIA",
         "SubCategoria": "SIN ALCOHOL",
@@ -322,7 +322,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000024",
+        "Id": "0000000000024",
         "Rubro": "CERVEZA",
         "Categoria": "RUBIA",
         "SubCategoria": "SIN ALCOHOL",
@@ -336,7 +336,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000025",
+        "Id": "0000000000025",
         "Rubro": "CERVEZA",
         "Categoria": "RUBIA",
         "SubCategoria": "PILSEN",
@@ -350,7 +350,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000026",
+        "Id": "0000000000026",
         "Rubro": "CERVEZA",
         "Categoria": "SCHWARZBIER",
         "SubCategoria": "NEGRA",
@@ -364,7 +364,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000027",
+        "Id": "0000000000027",
         "Rubro": "CERVEZA",
         "Categoria": "RUBIA",
         "SubCategoria": "PILSEN",
@@ -378,7 +378,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000028",
+        "Id": "0000000000028",
         "Rubro": "CERVEZA",
         "Categoria": "RUBIA",
         "SubCategoria": "LAGER",
@@ -392,7 +392,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000030",
+        "Id": "0000000000030",
         "Rubro": "CERVEZA",
         "Categoria": "RUBIA",
         "SubCategoria": "LAGER",
@@ -406,7 +406,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000033",
+        "Id": "0000000000033",
         "Rubro": "CERVEZA",
         "Categoria": "RUBIA",
         "SubCategoria": "LAGER",
@@ -420,7 +420,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000035",
+        "Id": "0000000000035",
         "Rubro": "CERVEZA",
         "Categoria": "RUBIA",
         "SubCategoria": "LAGER",
@@ -434,7 +434,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000036",
+        "Id": "0000000000036",
         "Rubro": "CERVEZA",
         "Categoria": "RED ALE",
         "SubCategoria": "ROJA",
@@ -448,7 +448,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000038",
+        "Id": "0000000000038",
         "Rubro": "CERVEZA",
         "Categoria": "IPA",
         "SubCategoria": "",
@@ -462,7 +462,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000039",
+        "Id": "0000000000039",
         "Rubro": "CERVEZA",
         "Categoria": "IPA",
         "SubCategoria": "",
@@ -476,7 +476,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000040",
+        "Id": "0000000000040",
         "Rubro": "CERVEZA",
         "Categoria": "RUBIA",
         "SubCategoria": "LAGER",
@@ -490,7 +490,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000044",
+        "Id": "0000000000044",
         "Rubro": "CERVEZA",
         "Categoria": "RUBIA",
         "SubCategoria": "LAGER",
@@ -504,7 +504,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000048",
+        "Id": "0000000000048",
         "Rubro": "CERVEZA",
         "Categoria": "RUBIA",
         "SubCategoria": "LAGER",
@@ -518,7 +518,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000050",
+        "Id": "0000000000050",
         "Rubro": "CERVEZA",
         "Categoria": "RUBIA",
         "SubCategoria": "LAGER",
@@ -532,7 +532,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000052",
+        "Id": "0000000000052",
         "Rubro": "CERVEZA",
         "Categoria": "RUBIA",
         "SubCategoria": "GOLDEN",
@@ -546,7 +546,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000054",
+        "Id": "0000000000054",
         "Rubro": "CERVEZA",
         "Categoria": "RUBIA",
         "SubCategoria": "LAGER",
@@ -560,7 +560,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000055",
+        "Id": "0000000000055",
         "Rubro": "SPIRITS",
         "Categoria": "VODKA",
         "SubCategoria": "COMBO",
@@ -574,7 +574,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000057",
+        "Id": "0000000000057",
         "Rubro": "SNACK",
         "Categoria": "CHOCOLATE",
         "SubCategoria": "BOMBOM",
@@ -588,7 +588,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000059",
+        "Id": "0000000000059",
         "Rubro": "ESPUMANTE",
         "Categoria": "CHAMPAGNE",
         "SubCategoria": "",
@@ -602,7 +602,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000060",
+        "Id": "0000000000060",
         "Rubro": "ESPUMANTE",
         "Categoria": "ROSADO",
         "SubCategoria": "",
@@ -616,7 +616,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000061",
+        "Id": "0000000000061",
         "Rubro": "ESPUMANTE",
         "Categoria": "EXTRA BRUT",
         "SubCategoria": "",
@@ -630,7 +630,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000062",
+        "Id": "0000000000062",
         "Rubro": "ESPUMANTE",
         "Categoria": "SIDRA",
         "SubCategoria": "",
@@ -644,7 +644,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000063",
+        "Id": "0000000000063",
         "Rubro": "ESPUMANTE",
         "Categoria": "SIDRA",
         "SubCategoria": "",
@@ -658,7 +658,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000064",
+        "Id": "0000000000064",
         "Rubro": "SPIRITS",
         "Categoria": "GIN",
         "SubCategoria": "",
@@ -672,7 +672,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000065",
+        "Id": "0000000000065",
         "Rubro": "SPIRITS",
         "Categoria": "VODKA",
         "SubCategoria": "",
@@ -686,7 +686,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000066",
+        "Id": "0000000000066",
         "Rubro": "SPIRITS",
         "Categoria": "VODKA",
         "SubCategoria": "",
@@ -700,7 +700,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000067",
+        "Id": "0000000000067",
         "Rubro": "SPIRITS",
         "Categoria": "VODKA",
         "SubCategoria": "",
@@ -714,7 +714,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000068",
+        "Id": "0000000000068",
         "Rubro": "SPIRITS",
         "Categoria": "APERITIVO",
         "SubCategoria": "",
@@ -728,7 +728,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000070",
+        "Id": "0000000000070",
         "Rubro": "SPIRITS",
         "Categoria": "LICOR",
         "SubCategoria": "",
@@ -742,7 +742,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000071",
+        "Id": "0000000000071",
         "Rubro": "SPIRITS",
         "Categoria": "APERITIVO",
         "SubCategoria": "",
@@ -756,7 +756,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000074",
+        "Id": "0000000000074",
         "Rubro": "SPIRITS",
         "Categoria": "VODKA",
         "SubCategoria": "",
@@ -770,7 +770,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000075",
+        "Id": "0000000000075",
         "Rubro": "SIN ALCOHOL",
         "Categoria": "",
         "SubCategoria": "",
@@ -784,7 +784,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000076",
+        "Id": "0000000000076",
         "Rubro": "SPIRITS",
         "Categoria": "LICOR",
         "SubCategoria": "",
@@ -798,7 +798,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000077",
+        "Id": "0000000000077",
         "Rubro": "SPIRITS",
         "Categoria": "LICOR",
         "SubCategoria": "",
@@ -812,7 +812,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000078",
+        "Id": "0000000000078",
         "Rubro": "SPIRITS",
         "Categoria": "LICOR",
         "SubCategoria": "",
@@ -826,7 +826,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000079",
+        "Id": "0000000000079",
         "Rubro": "SPIRITS",
         "Categoria": "LICOR",
         "SubCategoria": "",
@@ -840,7 +840,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000080",
+        "Id": "0000000000080",
         "Rubro": "SPIRITS",
         "Categoria": "LICOR",
         "SubCategoria": "",
@@ -854,7 +854,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000081",
+        "Id": "0000000000081",
         "Rubro": "SPIRITS",
         "Categoria": "VODKA",
         "SubCategoria": "",
@@ -868,7 +868,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000084",
+        "Id": "0000000000084",
         "Rubro": "SPIRITS",
         "Categoria": "APERITIVO",
         "SubCategoria": "",
@@ -882,7 +882,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000085",
+        "Id": "0000000000085",
         "Rubro": "SPIRITS",
         "Categoria": "APERITIVO",
         "SubCategoria": "",
@@ -896,7 +896,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000086",
+        "Id": "0000000000086",
         "Rubro": "WHISKY",
         "Categoria": "12 A�OS",
         "SubCategoria": "",
@@ -910,7 +910,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000087",
+        "Id": "0000000000087",
         "Rubro": "WHISKY",
         "Categoria": "",
         "SubCategoria": "",
@@ -924,7 +924,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000088",
+        "Id": "0000000000088",
         "Rubro": "RON",
         "Categoria": "BLANCO",
         "SubCategoria": "",
@@ -938,7 +938,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000089",
+        "Id": "0000000000089",
         "Rubro": "RON",
         "Categoria": "TRADICIONAL",
         "SubCategoria": "",
@@ -952,7 +952,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000090",
+        "Id": "0000000000090",
         "Rubro": "RON",
         "Categoria": "TRADICIONAL",
         "SubCategoria": "",
@@ -966,7 +966,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000091",
+        "Id": "0000000000091",
         "Rubro": "RON",
         "Categoria": "SABOR COCO",
         "SubCategoria": "",
@@ -980,7 +980,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000092",
+        "Id": "0000000000092",
         "Rubro": "WHISKY",
         "Categoria": "12 A�OS",
         "SubCategoria": "",
@@ -994,7 +994,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000093",
+        "Id": "0000000000093",
         "Rubro": "WHISKY",
         "Categoria": "12 A�OS",
         "SubCategoria": "",
@@ -1008,7 +1008,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000094",
+        "Id": "0000000000094",
         "Rubro": "WHISKY",
         "Categoria": "12 A�OS",
         "SubCategoria": "",
@@ -1022,7 +1022,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000095",
+        "Id": "0000000000095",
         "Rubro": "WHISKY",
         "Categoria": "",
         "SubCategoria": "",
@@ -1036,7 +1036,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000096",
+        "Id": "0000000000096",
         "Rubro": "WHISKY",
         "Categoria": "18 A�OS",
         "SubCategoria": "",
@@ -1050,7 +1050,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000097",
+        "Id": "0000000000097",
         "Rubro": "SIN ALCOHOL",
         "Categoria": "ISOTONICA",
         "SubCategoria": "",
@@ -1064,7 +1064,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000098",
+        "Id": "0000000000098",
         "Rubro": "SIN ALCOHOL",
         "Categoria": "ISOTONICA",
         "SubCategoria": "",
@@ -1078,7 +1078,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000099",
+        "Id": "0000000000099",
         "Rubro": "SIN ALCOHOL",
         "Categoria": "ISOTONICA",
         "SubCategoria": "",
@@ -1092,7 +1092,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000100",
+        "Id": "0000000000100",
         "Rubro": "SIN ALCOHOL",
         "Categoria": "ISOTONICA",
         "SubCategoria": "",
@@ -1106,7 +1106,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000101",
+        "Id": "0000000000101",
         "Rubro": "SIN ALCOHOL",
         "Categoria": "ISOTONICA",
         "SubCategoria": "",
@@ -1120,7 +1120,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000102",
+        "Id": "0000000000102",
         "Rubro": "SIN ALCOHOL",
         "Categoria": "",
         "SubCategoria": "",
@@ -1134,7 +1134,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000103",
+        "Id": "0000000000103",
         "Rubro": "SIN ALCOHOL",
         "Categoria": "",
         "SubCategoria": "",
@@ -1148,7 +1148,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000104",
+        "Id": "0000000000104",
         "Rubro": "SNACK",
         "Categoria": "SALADOS",
         "SubCategoria": "",
@@ -1162,7 +1162,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000105",
+        "Id": "0000000000105",
         "Rubro": "RON",
         "Categoria": "",
         "SubCategoria": "",
@@ -1176,7 +1176,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000106",
+        "Id": "0000000000106",
         "Rubro": "SIN ALCOHOL",
         "Categoria": "",
         "SubCategoria": "",
@@ -1190,7 +1190,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000107",
+        "Id": "0000000000107",
         "Rubro": "SIN ALCOHOL",
         "Categoria": "",
         "SubCategoria": "",
@@ -1204,7 +1204,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000108",
+        "Id": "0000000000108",
         "Rubro": "SIN ALCOHOL",
         "Categoria": "",
         "SubCategoria": "",
@@ -1218,7 +1218,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000109",
+        "Id": "0000000000109",
         "Rubro": "SIN ALCOHOL",
         "Categoria": "JUGO",
         "SubCategoria": "",
@@ -1232,7 +1232,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000110",
+        "Id": "0000000000110",
         "Rubro": "SIN ALCOHOL",
         "Categoria": "GASEOSA",
         "SubCategoria": "",
@@ -1246,7 +1246,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000111",
+        "Id": "0000000000111",
         "Rubro": "SIN ALCOHOL",
         "Categoria": "GASEOSA",
         "SubCategoria": "",
@@ -1260,7 +1260,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000112",
+        "Id": "0000000000112",
         "Rubro": "SIN ALCOHOL",
         "Categoria": "GASEOSA",
         "SubCategoria": "",
@@ -1274,7 +1274,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000113",
+        "Id": "0000000000113",
         "Rubro": "SNACK",
         "Categoria": "SALADOS",
         "SubCategoria": "",
@@ -1288,7 +1288,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000114",
+        "Id": "0000000000114",
         "Rubro": "SNACK",
         "Categoria": "SALADOS",
         "SubCategoria": "",
@@ -1302,7 +1302,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000115",
+        "Id": "0000000000115",
         "Rubro": "SNACK",
         "Categoria": "CHOCOLATE",
         "SubCategoria": "BOMBOM",
@@ -1316,7 +1316,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000116",
+        "Id": "0000000000116",
         "Rubro": "SNACK",
         "Categoria": "CHOCOLATE",
         "SubCategoria": "BOMBOM",
@@ -1330,7 +1330,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000117",
+        "Id": "0000000000117",
         "Rubro": "SNACK",
         "Categoria": "CHUPETIN",
         "SubCategoria": "",
@@ -1344,7 +1344,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000118",
+        "Id": "0000000000118",
         "Rubro": "SIN ALCOHOL",
         "Categoria": "",
         "SubCategoria": "",
@@ -1358,7 +1358,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000119",
+        "Id": "0000000000119",
         "Rubro": "SNACK",
         "Categoria": "SALADOS",
         "SubCategoria": "",
@@ -1372,7 +1372,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000120",
+        "Id": "0000000000120",
         "Rubro": "SIN ALCOHOL",
         "Categoria": "GASEOSA",
         "SubCategoria": "",
@@ -1386,7 +1386,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000121",
+        "Id": "0000000000121",
         "Rubro": "SNACK",
         "Categoria": "SALADOS",
         "SubCategoria": "",
@@ -1400,7 +1400,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000122",
+        "Id": "0000000000122",
         "Rubro": "SNACK",
         "Categoria": "SALADOS",
         "SubCategoria": "",
@@ -1414,7 +1414,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000123",
+        "Id": "0000000000123",
         "Rubro": "SNACK",
         "Categoria": "SALADOS",
         "SubCategoria": "",
@@ -1428,7 +1428,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000125",
+        "Id": "0000000000125",
         "Rubro": "OTROS",
         "Categoria": "",
         "SubCategoria": "",
@@ -1442,7 +1442,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000130",
+        "Id": "0000000000130",
         "Rubro": "SPIRITS",
         "Categoria": "APERITIVO",
         "SubCategoria": "COMBO",
@@ -1456,7 +1456,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000131",
+        "Id": "0000000000131",
         "Rubro": "SPIRITS",
         "Categoria": "VODKA",
         "SubCategoria": "COMBO",
@@ -1470,7 +1470,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000132",
+        "Id": "0000000000132",
         "Rubro": "SPIRITS",
         "Categoria": "VODKA",
         "SubCategoria": "COMBO",
@@ -1484,7 +1484,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000133",
+        "Id": "0000000000133",
         "Rubro": "SNACK",
         "Categoria": "SALADOS",
         "SubCategoria": "",
@@ -1498,7 +1498,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000134",
+        "Id": "0000000000134",
         "Rubro": "SPIRITS",
         "Categoria": "VODKA",
         "SubCategoria": "COMBO",
@@ -1512,7 +1512,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000135",
+        "Id": "0000000000135",
         "Rubro": "SPIRITS",
         "Categoria": "VODKA",
         "SubCategoria": "COMBO",
@@ -1526,7 +1526,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000136",
+        "Id": "0000000000136",
         "Rubro": "VINO",
         "Categoria": "TINTO",
         "SubCategoria": "MALBEC",
@@ -1540,7 +1540,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000137",
+        "Id": "0000000000137",
         "Rubro": "SPIRITS",
         "Categoria": "VODKA",
         "SubCategoria": "COMBO",
@@ -1554,7 +1554,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000138",
+        "Id": "0000000000138",
         "Rubro": "SPIRITS",
         "Categoria": "VODKA",
         "SubCategoria": "COMBO",
@@ -1568,7 +1568,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000139",
+        "Id": "0000000000139",
         "Rubro": "RON",
         "Categoria": "",
         "SubCategoria": "COMBO",
@@ -1582,7 +1582,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000140",
+        "Id": "0000000000140",
         "Rubro": "RON",
         "Categoria": "",
         "SubCategoria": "COMBO",
@@ -1596,7 +1596,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000141",
+        "Id": "0000000000141",
         "Rubro": "RON",
         "Categoria": "",
         "SubCategoria": "COMBO",
@@ -1610,7 +1610,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000142",
+        "Id": "0000000000142",
         "Rubro": "RON",
         "Categoria": "",
         "SubCategoria": "COMBO",
@@ -1624,7 +1624,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000150",
+        "Id": "0000000000150",
         "Rubro": "SPIRITS",
         "Categoria": "APERITIVO",
         "SubCategoria": "",
@@ -1638,7 +1638,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000154",
+        "Id": "0000000000154",
         "Rubro": "CERVEZA",
         "Categoria": "IPA",
         "SubCategoria": "",
@@ -1652,7 +1652,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000155",
+        "Id": "0000000000155",
         "Rubro": "CERVEZA",
         "Categoria": "IPA",
         "SubCategoria": "",
@@ -1666,7 +1666,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000156",
+        "Id": "0000000000156",
         "Rubro": "CERVEZA",
         "Categoria": "RUBIA",
         "SubCategoria": "LAGER",
@@ -1680,7 +1680,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000157",
+        "Id": "0000000000157",
         "Rubro": "CERVEZA",
         "Categoria": "RUBIA",
         "SubCategoria": "LAGER",
@@ -1694,7 +1694,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000160",
+        "Id": "0000000000160",
         "Rubro": "SIN ALCOHOL",
         "Categoria": "",
         "SubCategoria": "",
@@ -1708,7 +1708,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000161",
+        "Id": "0000000000161",
         "Rubro": "SIN ALCOHOL",
         "Categoria": "GASEOSA",
         "SubCategoria": "",
@@ -1722,7 +1722,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000162",
+        "Id": "0000000000162",
         "Rubro": "SIN ALCOHOL",
         "Categoria": "GASEOSA",
         "SubCategoria": "",
@@ -1736,7 +1736,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000163",
+        "Id": "0000000000163",
         "Rubro": "SIN ALCOHOL",
         "Categoria": "GASEOSA",
         "SubCategoria": "",
@@ -1750,7 +1750,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000164",
+        "Id": "0000000000164",
         "Rubro": "SIN ALCOHOL",
         "Categoria": "",
         "SubCategoria": "",
@@ -1764,7 +1764,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000166",
+        "Id": "0000000000166",
         "Rubro": "OTROS",
         "Categoria": "",
         "SubCategoria": "",
@@ -1778,7 +1778,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000167",
+        "Id": "0000000000167",
         "Rubro": "SNACK",
         "Categoria": "CHOCOLATE",
         "SubCategoria": "UNTABLE",
@@ -1792,7 +1792,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000168",
+        "Id": "0000000000168",
         "Rubro": "SNACK",
         "Categoria": "CHOCOLATE",
         "SubCategoria": "UNTABLE",
@@ -1806,7 +1806,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000169",
+        "Id": "0000000000169",
         "Rubro": "SNACK",
         "Categoria": "WAFFLES",
         "SubCategoria": "",
@@ -1820,7 +1820,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000170",
+        "Id": "0000000000170",
         "Rubro": "SNACK",
         "Categoria": "ALFAJOR",
         "SubCategoria": "",
@@ -1834,7 +1834,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000171",
+        "Id": "0000000000171",
         "Rubro": "SNACK",
         "Categoria": "CHOCOLATE",
         "SubCategoria": "",
@@ -1848,7 +1848,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000173",
+        "Id": "0000000000173",
         "Rubro": "SNACK",
         "Categoria": "SALADOS",
         "SubCategoria": "",
@@ -1862,7 +1862,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000175",
+        "Id": "0000000000175",
         "Rubro": "SNACK",
         "Categoria": "SALADOS",
         "SubCategoria": "",
@@ -1876,7 +1876,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000180",
+        "Id": "0000000000180",
         "Rubro": "CERVEZA",
         "Categoria": "RUBIA",
         "SubCategoria": "LAGER",
@@ -1890,7 +1890,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000181",
+        "Id": "0000000000181",
         "Rubro": "CERVEZA",
         "Categoria": "RUBIA",
         "SubCategoria": "LAGER",
@@ -1904,7 +1904,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000183",
+        "Id": "0000000000183",
         "Rubro": "CERVEZA",
         "Categoria": "SCHWARZBIER",
         "SubCategoria": "NEGRA",
@@ -1918,7 +1918,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000185",
+        "Id": "0000000000185",
         "Rubro": "CERVEZA",
         "Categoria": "RUBIA",
         "SubCategoria": "LAGER",
@@ -1932,7 +1932,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000187",
+        "Id": "0000000000187",
         "Rubro": "CERVEZA",
         "Categoria": "RUBIA",
         "SubCategoria": "LAGER",
@@ -1946,7 +1946,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000188",
+        "Id": "0000000000188",
         "Rubro": "CERVEZA",
         "Categoria": "RED ALE",
         "SubCategoria": "ROJA",
@@ -1960,7 +1960,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000189",
+        "Id": "0000000000189",
         "Rubro": "CERVEZA",
         "Categoria": "IPA",
         "SubCategoria": "",
@@ -1974,7 +1974,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000190",
+        "Id": "0000000000190",
         "Rubro": "CERVEZA",
         "Categoria": "RUBIA",
         "SubCategoria": "PILSEN",
@@ -1988,7 +1988,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000191",
+        "Id": "0000000000191",
         "Rubro": "CERVEZA",
         "Categoria": "RUBIA",
         "SubCategoria": "PILSEN",
@@ -2002,7 +2002,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000192",
+        "Id": "0000000000192",
         "Rubro": "CERVEZA",
         "Categoria": "RUBIA",
         "SubCategoria": "PILSEN",
@@ -2016,7 +2016,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000194",
+        "Id": "0000000000194",
         "Rubro": "CERVEZA",
         "Categoria": "RUBIA",
         "SubCategoria": "LAGER",
@@ -2030,7 +2030,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000196",
+        "Id": "0000000000196",
         "Rubro": "CERVEZA",
         "Categoria": "RUBIA",
         "SubCategoria": "LAGER",
@@ -2044,7 +2044,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000197",
+        "Id": "0000000000197",
         "Rubro": "CERVEZA",
         "Categoria": "RUBIA",
         "SubCategoria": "LAGER",
@@ -2058,7 +2058,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000199",
+        "Id": "0000000000199",
         "Rubro": "CERVEZA",
         "Categoria": "RUBIA",
         "SubCategoria": "GOLDEN",
@@ -2072,7 +2072,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000200",
+        "Id": "0000000000200",
         "Rubro": "CERVEZA",
         "Categoria": "RUBIA",
         "SubCategoria": "LAGER",
@@ -2086,7 +2086,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000201",
+        "Id": "0000000000201",
         "Rubro": "SIN ALCOHOL",
         "Categoria": "ISOTONICA",
         "SubCategoria": "",
@@ -2100,7 +2100,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000203",
+        "Id": "0000000000203",
         "Rubro": "OTROS",
         "Categoria": "",
         "SubCategoria": "",
@@ -2114,7 +2114,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000205",
+        "Id": "0000000000205",
         "Rubro": "CERVEZA",
         "Categoria": "RUBIA",
         "SubCategoria": "LAGER",
@@ -2128,7 +2128,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000206",
+        "Id": "0000000000206",
         "Rubro": "SPIRITS",
         "Categoria": "ANIS",
         "SubCategoria": "",
@@ -2142,7 +2142,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000207",
+        "Id": "0000000000207",
         "Rubro": "SPIRITS",
         "Categoria": "VODKA",
         "SubCategoria": "",
@@ -2156,7 +2156,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000208",
+        "Id": "0000000000208",
         "Rubro": "SPIRITS",
         "Categoria": "VODKA",
         "SubCategoria": "",
@@ -2170,7 +2170,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000209",
+        "Id": "0000000000209",
         "Rubro": "SPIRITS",
         "Categoria": "VODKA",
         "SubCategoria": "",
@@ -2184,7 +2184,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000210",
+        "Id": "0000000000210",
         "Rubro": "SPIRITS",
         "Categoria": "APERITIVO",
         "SubCategoria": "COMBO",
@@ -2198,7 +2198,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000211",
+        "Id": "0000000000211",
         "Rubro": "CERVEZA",
         "Categoria": "IPA",
         "SubCategoria": "",
@@ -2212,7 +2212,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000212",
+        "Id": "0000000000212",
         "Rubro": "SPIRITS",
         "Categoria": "VODKA",
         "SubCategoria": "COMBO",
@@ -2226,7 +2226,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000213",
+        "Id": "0000000000213",
         "Rubro": "CERVEZA",
         "Categoria": "SCHWARZBIER",
         "SubCategoria": "NEGRA",
@@ -2240,7 +2240,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000215",
+        "Id": "0000000000215",
         "Rubro": "SIN ALCOHOL",
         "Categoria": "",
         "SubCategoria": "",
@@ -2254,7 +2254,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000216",
+        "Id": "0000000000216",
         "Rubro": "SPIRITS",
         "Categoria": "GIN",
         "SubCategoria": "COMBO",
@@ -2268,7 +2268,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000217",
+        "Id": "0000000000217",
         "Rubro": "CERVEZA",
         "Categoria": "",
         "SubCategoria": "",
@@ -2282,7 +2282,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000219",
+        "Id": "0000000000219",
         "Rubro": "SNACK",
         "Categoria": "SALADOS",
         "SubCategoria": "",
@@ -2296,7 +2296,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000221",
+        "Id": "0000000000221",
         "Rubro": "SIN ALCOHOL",
         "Categoria": "GASEOSA",
         "SubCategoria": "",
@@ -2310,7 +2310,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000222",
+        "Id": "0000000000222",
         "Rubro": "CERVEZA",
         "Categoria": "RUBIA",
         "SubCategoria": "PILSEN",
@@ -2324,7 +2324,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000223",
+        "Id": "0000000000223",
         "Rubro": "CERVEZA",
         "Categoria": "RUBIA",
         "SubCategoria": "PILSEN",
@@ -2338,7 +2338,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000224",
+        "Id": "0000000000224",
         "Rubro": "SPIRITS",
         "Categoria": "VODKA",
         "SubCategoria": "",
@@ -2352,7 +2352,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000232",
+        "Id": "0000000000232",
         "Rubro": "ESPUMANTE",
         "Categoria": "",
         "SubCategoria": "",
@@ -2366,7 +2366,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000280",
+        "Id": "0000000000280",
         "Rubro": "SPIRITS",
         "Categoria": "VODKA",
         "SubCategoria": "",
@@ -2380,7 +2380,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000281",
+        "Id": "0000000000281",
         "Rubro": "SPIRITS",
         "Categoria": "VODKA",
         "SubCategoria": "",
@@ -2394,7 +2394,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000305",
+        "Id": "0000000000305",
         "Rubro": "CERVEZA",
         "Categoria": "RUBIA",
         "SubCategoria": "LAGER",
@@ -2408,7 +2408,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000378",
+        "Id": "0000000000378",
         "Rubro": "SNACK",
         "Categoria": "SALADOS",
         "SubCategoria": "",
@@ -2422,7 +2422,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000379",
+        "Id": "0000000000379",
         "Rubro": "OTROS",
         "Categoria": "",
         "SubCategoria": "",
@@ -2436,7 +2436,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000401",
+        "Id": "0000000000401",
         "Rubro": "SPIRITS",
         "Categoria": "APERITIVO",
         "SubCategoria": "COMBO",
@@ -2450,7 +2450,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000404",
+        "Id": "0000000000404",
         "Rubro": "SPIRITS",
         "Categoria": "GIN",
         "SubCategoria": "COMBO",
@@ -2464,7 +2464,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000405",
+        "Id": "0000000000405",
         "Rubro": "SPIRITS",
         "Categoria": "APERITIVO",
         "SubCategoria": "COMBO",
@@ -2478,7 +2478,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000420",
+        "Id": "0000000000420",
         "Rubro": "SPIRITS",
         "Categoria": "GIN",
         "SubCategoria": "",
@@ -2492,7 +2492,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000425",
+        "Id": "0000000000425",
         "Rubro": "ESPUMANTE",
         "Categoria": "CHAMPAGNE",
         "SubCategoria": "",
@@ -2506,7 +2506,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000433",
+        "Id": "0000000000433",
         "Rubro": "CERVEZA",
         "Categoria": "IPA",
         "SubCategoria": "RED IPA",
@@ -2520,7 +2520,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000434",
+        "Id": "0000000000434",
         "Rubro": "CERVEZA",
         "Categoria": "IPA",
         "SubCategoria": "RED IPA",
@@ -2534,7 +2534,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000435",
+        "Id": "0000000000435",
         "Rubro": "SPIRITS",
         "Categoria": "VODKA",
         "SubCategoria": "",
@@ -2548,7 +2548,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000437",
+        "Id": "0000000000437",
         "Rubro": "CERVEZA",
         "Categoria": "RUBIA",
         "SubCategoria": "LAGER",
@@ -2562,7 +2562,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000438",
+        "Id": "0000000000438",
         "Rubro": "OTROS",
         "Categoria": "",
         "SubCategoria": "",
@@ -2576,7 +2576,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000460",
+        "Id": "0000000000460",
         "Rubro": "CERVEZA",
         "Categoria": "RUBIA",
         "SubCategoria": "LAGER",
@@ -2590,7 +2590,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000666",
+        "Id": "0000000000666",
         "Rubro": "CERVEZA",
         "Categoria": "IPA",
         "SubCategoria": "",
@@ -2604,7 +2604,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000000000667",
+        "Id": "0000000000667",
         "Rubro": "CERVEZA",
         "Categoria": "IPA",
         "SubCategoria": "",
@@ -2618,7 +2618,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000077928870",
+        "Id": "0000077928870",
         "Rubro": "SNACK",
         "Categoria": "CHOCOLATE",
         "SubCategoria": "",
@@ -2632,7 +2632,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000077980229",
+        "Id": "0000077980229",
         "Rubro": "SNACK",
         "Categoria": "ALFAJOR",
         "SubCategoria": "",
@@ -2646,7 +2646,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000077982353",
+        "Id": "0000077982353",
         "Rubro": "SNACK",
         "Categoria": "CHICLES",
         "SubCategoria": "",
@@ -2660,7 +2660,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000077982360",
+        "Id": "0000077982360",
         "Rubro": "VINO",
         "Categoria": "TINTO",
         "SubCategoria": "MALBEC",
@@ -2674,7 +2674,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000077982377",
+        "Id": "0000077982377",
         "Rubro": "SNACK",
         "Categoria": "SALADOS",
         "SubCategoria": "",
@@ -2688,7 +2688,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0000078909434",
+        "Id": "0000078909434",
         "Rubro": "SNACK",
         "Categoria": "CHOCOLATE",
         "SubCategoria": "BOMBOM",
@@ -2702,7 +2702,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0038000845253",
+        "Id": "0038000845253",
         "Rubro": "SNACK",
         "Categoria": "SALADOS",
         "SubCategoria": "",
@@ -2716,7 +2716,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0070847032861",
+        "Id": "0070847032861",
         "Rubro": "SIN ALCOHOL",
         "Categoria": "",
         "SubCategoria": "",
@@ -2730,7 +2730,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "0792798009107",
+        "Id": "0792798009107",
         "Rubro": "CERVEZA",
         "Categoria": "RUBIA",
         "SubCategoria": "SIN ALCOHOL",
@@ -2744,7 +2744,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "1007008470123",
+        "Id": "1007008470123",
         "Rubro": "SIN ALCOHOL",
         "Categoria": "",
         "SubCategoria": "",
@@ -2758,7 +2758,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "1007084703123",
+        "Id": "1007084703123",
         "Rubro": "SIN ALCOHOL",
         "Categoria": "",
         "SubCategoria": "",
@@ -2772,7 +2772,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "4067700014559",
+        "Id": "4067700014559",
         "Rubro": "SPIRITS",
         "Categoria": "LICOR",
         "SubCategoria": "",
@@ -2786,7 +2786,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "5000267013602",
+        "Id": "5000267013602",
         "Rubro": "WHISKY",
         "Categoria": "",
         "SubCategoria": "",
@@ -2800,7 +2800,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "5000267014005",
+        "Id": "5000267014005",
         "Rubro": "WHISKY",
         "Categoria": "",
         "SubCategoria": "",
@@ -2814,7 +2814,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "5000267023601",
+        "Id": "5000267023601",
         "Rubro": "WHISKY",
         "Categoria": "",
         "SubCategoria": "",
@@ -2828,7 +2828,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7591016850305",
+        "Id": "7591016850305",
         "Rubro": "SNACK",
         "Categoria": "CHOCOLATE",
         "SubCategoria": "BARRA",
@@ -2842,7 +2842,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7591016851555",
+        "Id": "7591016851555",
         "Rubro": "SNACK",
         "Categoria": "CHOCOLATE",
         "SubCategoria": "BARRA",
@@ -2856,7 +2856,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7591016854686",
+        "Id": "7591016854686",
         "Rubro": "SNACK",
         "Categoria": "CHOCOLATE",
         "SubCategoria": "BARRA",
@@ -2870,7 +2870,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7591016871065",
+        "Id": "7591016871065",
         "Rubro": "SNACK",
         "Categoria": "WAFFLES",
         "SubCategoria": "",
@@ -2884,7 +2884,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7591016873434",
+        "Id": "7591016873434",
         "Rubro": "SNACK",
         "Categoria": "CHOCOLATE",
         "SubCategoria": "WAFFLE",
@@ -2898,7 +2898,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7591156404604",
+        "Id": "7591156404604",
         "Rubro": "RON",
         "Categoria": "",
         "SubCategoria": "",
@@ -2912,7 +2912,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7591675013042",
+        "Id": "7591675013042",
         "Rubro": "SNACK",
         "Categoria": "CHOCOLATE",
         "SubCategoria": "CUBANITOS",
@@ -2926,7 +2926,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7622300990732",
+        "Id": "7622300990732",
         "Rubro": "SNACK",
         "Categoria": "SALADOS",
         "SubCategoria": "GALLETAS",
@@ -2940,7 +2940,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7790240042085",
+        "Id": "7790240042085",
         "Rubro": "VINO",
         "Categoria": "TINTO",
         "SubCategoria": "CABERNET SAUV",
@@ -2954,7 +2954,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7790240094459",
+        "Id": "7790240094459",
         "Rubro": "VINO",
         "Categoria": "TINTO",
         "SubCategoria": "MALBEC",
@@ -2968,7 +2968,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7790240098969",
+        "Id": "7790240098969",
         "Rubro": "VINO",
         "Categoria": "TINTO",
         "SubCategoria": "MALBEC",
@@ -2982,7 +2982,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7790260002076",
+        "Id": "7790260002076",
         "Rubro": "SPIRITS",
         "Categoria": "LICOR",
         "SubCategoria": "",
@@ -2996,7 +2996,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7790260013065",
+        "Id": "7790260013065",
         "Rubro": "SPIRITS",
         "Categoria": "LICOR",
         "SubCategoria": "",
@@ -3010,7 +3010,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7790260013096",
+        "Id": "7790260013096",
         "Rubro": "SPIRITS",
         "Categoria": "LICOR",
         "SubCategoria": "",
@@ -3024,7 +3024,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7790260013164",
+        "Id": "7790260013164",
         "Rubro": "SPIRITS",
         "Categoria": "LICOR",
         "SubCategoria": "",
@@ -3038,7 +3038,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7790260013195",
+        "Id": "7790260013195",
         "Rubro": "SPIRITS",
         "Categoria": "LICOR",
         "SubCategoria": "",
@@ -3052,7 +3052,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7790260013362",
+        "Id": "7790260013362",
         "Rubro": "SPIRITS",
         "Categoria": "LICOR",
         "SubCategoria": "",
@@ -3066,7 +3066,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7790290101510",
+        "Id": "7790290101510",
         "Rubro": "SPIRITS",
         "Categoria": "VODKA",
         "SubCategoria": "",
@@ -3080,7 +3080,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7790310984017",
+        "Id": "7790310984017",
         "Rubro": "SNACK",
         "Categoria": "SALADOS",
         "SubCategoria": "",
@@ -3094,7 +3094,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7790310985328",
+        "Id": "7790310985328",
         "Rubro": "SNACK",
         "Categoria": "SALADOS",
         "SubCategoria": "",
@@ -3108,7 +3108,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7790310985335",
+        "Id": "7790310985335",
         "Rubro": "SNACK",
         "Categoria": "SALADOS",
         "SubCategoria": "",
@@ -3122,7 +3122,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7790310985472",
+        "Id": "7790310985472",
         "Rubro": "SNACK",
         "Categoria": "SALADOS",
         "SubCategoria": "",
@@ -3136,7 +3136,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7790310985489",
+        "Id": "7790310985489",
         "Rubro": "SNACK",
         "Categoria": "SALADOS",
         "SubCategoria": "",
@@ -3150,7 +3150,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7790310986059",
+        "Id": "7790310986059",
         "Rubro": "SNACK",
         "Categoria": "SALADOS",
         "SubCategoria": "",
@@ -3164,7 +3164,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7790315000422",
+        "Id": "7790315000422",
         "Rubro": "SIN ALCOHOL",
         "Categoria": "",
         "SubCategoria": "",
@@ -3178,7 +3178,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7790315000439",
+        "Id": "7790315000439",
         "Rubro": "SIN ALCOHOL",
         "Categoria": "",
         "SubCategoria": "",
@@ -3192,7 +3192,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7790717001195",
+        "Id": "7790717001195",
         "Rubro": "ESPUMANTE",
         "Categoria": "",
         "SubCategoria": "",
@@ -3206,7 +3206,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7790717152002",
+        "Id": "7790717152002",
         "Rubro": "VINO",
         "Categoria": "TINTO",
         "SubCategoria": "MALBEC",
@@ -3220,7 +3220,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7790717152026",
+        "Id": "7790717152026",
         "Rubro": "ESPUMANTE",
         "Categoria": "",
         "SubCategoria": "",
@@ -3234,7 +3234,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7790717153900",
+        "Id": "7790717153900",
         "Rubro": "VINO",
         "Categoria": "TINTO",
         "SubCategoria": "MALBEC",
@@ -3248,7 +3248,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7790895000782",
+        "Id": "7790895000782",
         "Rubro": "SIN ALCOHOL",
         "Categoria": "GASEOSA",
         "SubCategoria": "",
@@ -3262,7 +3262,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7790895007217",
+        "Id": "7790895007217",
         "Rubro": "SIN ALCOHOL",
         "Categoria": "GASEOSA",
         "SubCategoria": "",
@@ -3276,7 +3276,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7790895010088",
+        "Id": "7790895010088",
         "Rubro": "SIN ALCOHOL",
         "Categoria": "",
         "SubCategoria": "",
@@ -3290,7 +3290,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7790895067570",
+        "Id": "7790895067570",
         "Rubro": "SIN ALCOHOL",
         "Categoria": "GASEOSA",
         "SubCategoria": "",
@@ -3304,7 +3304,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7790895643903",
+        "Id": "7790895643903",
         "Rubro": "SPIRITS",
         "Categoria": "TEQUILA",
         "SubCategoria": "",
@@ -3318,7 +3318,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7790975000152",
+        "Id": "7790975000152",
         "Rubro": "ESPUMANTE",
         "Categoria": "",
         "SubCategoria": "",
@@ -3332,7 +3332,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7791200000626",
+        "Id": "7791200000626",
         "Rubro": "SPIRITS",
         "Categoria": "APERITIVO",
         "SubCategoria": "",
@@ -3346,7 +3346,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7791200200552",
+        "Id": "7791200200552",
         "Rubro": "SPIRITS",
         "Categoria": "APERITIVO",
         "SubCategoria": "",
@@ -3360,7 +3360,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7791250002977",
+        "Id": "7791250002977",
         "Rubro": "WHISKY",
         "Categoria": "",
         "SubCategoria": "",
@@ -3374,7 +3374,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7791250003011",
+        "Id": "7791250003011",
         "Rubro": "SPIRITS",
         "Categoria": "VODKA",
         "SubCategoria": "",
@@ -3388,7 +3388,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7791250003097",
+        "Id": "7791250003097",
         "Rubro": "SPIRITS",
         "Categoria": "VODKA",
         "SubCategoria": "",
@@ -3402,7 +3402,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7791250003103",
+        "Id": "7791250003103",
         "Rubro": "SPIRITS",
         "Categoria": "VODKA",
         "SubCategoria": "",
@@ -3416,7 +3416,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7791250003202",
+        "Id": "7791250003202",
         "Rubro": "SPIRITS",
         "Categoria": "VODKA",
         "SubCategoria": "",
@@ -3430,7 +3430,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7791560040126",
+        "Id": "7791560040126",
         "Rubro": "ESPUMANTE",
         "Categoria": "",
         "SubCategoria": "",
@@ -3444,7 +3444,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7791728002478",
+        "Id": "7791728002478",
         "Rubro": "VINO",
         "Categoria": "TINTO",
         "SubCategoria": "MALBEC",
@@ -3458,7 +3458,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7791813001102",
+        "Id": "7791813001102",
         "Rubro": "SIN ALCOHOL",
         "Categoria": "ISOTONICA",
         "SubCategoria": "",
@@ -3472,7 +3472,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7791813402022",
+        "Id": "7791813402022",
         "Rubro": "SIN ALCOHOL",
         "Categoria": "",
         "SubCategoria": "",
@@ -3486,7 +3486,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7791813420583",
+        "Id": "7791813420583",
         "Rubro": "SIN ALCOHOL",
         "Categoria": "",
         "SubCategoria": "",
@@ -3500,7 +3500,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7791813777038",
+        "Id": "7791813777038",
         "Rubro": "SIN ALCOHOL",
         "Categoria": "",
         "SubCategoria": "",
@@ -3514,7 +3514,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7791813888239",
+        "Id": "7791813888239",
         "Rubro": "SIN ALCOHOL",
         "Categoria": "",
         "SubCategoria": "",
@@ -3528,7 +3528,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7792170042241",
+        "Id": "7792170042241",
         "Rubro": "SIN ALCOHOL",
         "Categoria": "ISOTONICA",
         "SubCategoria": "",
@@ -3542,7 +3542,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7792170042258",
+        "Id": "7792170042258",
         "Rubro": "SIN ALCOHOL",
         "Categoria": "ISOTONICA",
         "SubCategoria": "",
@@ -3556,7 +3556,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7792170110551",
+        "Id": "7792170110551",
         "Rubro": "SIN ALCOHOL",
         "Categoria": "ISOTONICA",
         "SubCategoria": "",
@@ -3570,7 +3570,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7792170110568",
+        "Id": "7792170110568",
         "Rubro": "SIN ALCOHOL",
         "Categoria": "ISOTONICA",
         "SubCategoria": "",
@@ -3584,7 +3584,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7792798002320",
+        "Id": "7792798002320",
         "Rubro": "CERVEZA",
         "Categoria": "SCHWARZBIER",
         "SubCategoria": "NEGRA",
@@ -3598,7 +3598,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7792798009114",
+        "Id": "7792798009114",
         "Rubro": "CERVEZA",
         "Categoria": "RUBIA",
         "SubCategoria": "SIN ALCOHOL",
@@ -3612,7 +3612,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7792798014156",
+        "Id": "7792798014156",
         "Rubro": "CERVEZA",
         "Categoria": "RUBIA",
         "SubCategoria": "LAGER",
@@ -3626,7 +3626,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7792798014157",
+        "Id": "7792798014157",
         "Rubro": "CERVEZA",
         "Categoria": "RUBIA",
         "SubCategoria": "LAGER",
@@ -3640,7 +3640,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7793147118846",
+        "Id": "7793147118846",
         "Rubro": "CERVEZA",
         "Categoria": "RUBIA",
         "SubCategoria": "LAGER",
@@ -3654,7 +3654,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7798065730040",
+        "Id": "7798065730040",
         "Rubro": "SIN ALCOHOL",
         "Categoria": "",
         "SubCategoria": "",
@@ -3668,7 +3668,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7798067780029",
+        "Id": "7798067780029",
         "Rubro": "SIN ALCOHOL",
         "Categoria": "",
         "SubCategoria": "",
@@ -3682,7 +3682,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7798074860240",
+        "Id": "7798074860240",
         "Rubro": "VINO",
         "Categoria": "TINTO",
         "SubCategoria": "MALBEC",
@@ -3696,7 +3696,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7798074860363",
+        "Id": "7798074860363",
         "Rubro": "VINO",
         "Categoria": "PINOT NOIR",
         "SubCategoria": "",
@@ -3710,7 +3710,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7798074862077",
+        "Id": "7798074862077",
         "Rubro": "VINO",
         "Categoria": "TINTO",
         "SubCategoria": "MALBEC",
@@ -3724,7 +3724,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7798099590085",
+        "Id": "7798099590085",
         "Rubro": "VINO",
         "Categoria": "TINTO",
         "SubCategoria": "MALBEC",
@@ -3738,7 +3738,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7798099593734",
+        "Id": "7798099593734",
         "Rubro": "VINO",
         "Categoria": "TINTO",
         "SubCategoria": "MALBEC",
@@ -3752,7 +3752,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7798353195278",
+        "Id": "7798353195278",
         "Rubro": "VINO",
         "Categoria": "BLANCO",
         "SubCategoria": "DULCE",
@@ -3766,7 +3766,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7803473500069",
+        "Id": "7803473500069",
         "Rubro": "SNACK",
         "Categoria": "CUPCAKES",
         "SubCategoria": "",
@@ -3780,7 +3780,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7891000368626",
+        "Id": "7891000368626",
         "Rubro": "SNACK",
         "Categoria": "CHOCOLATE",
         "SubCategoria": "BARRA",
@@ -3794,7 +3794,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "7891000369098",
+        "Id": "7891000369098",
         "Rubro": "SNACK",
         "Categoria": "CHOCOLATE",
         "SubCategoria": "BARRA",
@@ -3808,7 +3808,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "8445290194176",
+        "Id": "8445290194176",
         "Rubro": "OTROS",
         "Categoria": "CHOCOLATE",
         "SubCategoria": "",
@@ -3822,7 +3822,7 @@
         "Venta 4": ""
     },
     {
-        "Codigo Propio": "8445290194190",
+        "Id": "8445290194190",
         "Rubro": "OTROS",
         "Categoria": "CHOCOLATE",
         "SubCategoria": "",

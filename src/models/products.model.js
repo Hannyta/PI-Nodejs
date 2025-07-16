@@ -4,15 +4,21 @@ import path from 'path';
 const __dirname = import.meta.dirname;
 
 const jsonPath =  path.join(__dirname, './products.json');
-
 const json = fs.readFileSync(jsonPath, 'utf-8');
-
 const products = JSON.parse(json);
 
-console.log(products);
+import {db} from './data.js';
+import { collection, getDocs } from 'firebase/firestore';
 
-export const getAllProducts = () => {
-    return products;
+const productsCollection = collection(db, 'products');
+
+export const getAllProducts = async() => {
+    try {
+        const snapshot = await getDocs(productsCollection);
+        return snapshot.docs.map((doc) => ({ id: doc.id, ...doc.data() }));
+    } catch (error) {
+        console.error(error)
+    }
 };
 
 export const getProductById = (id) => {
@@ -32,7 +38,7 @@ export const createProduct = (data) => {
     return newProduct;
 };
 
-export const delateProduct = (id) => {
+export const deleteProduct = (id) => {
     const productIndex = products.findIndex((p) => p.id === id);
 
     if (productIndex == -1) {

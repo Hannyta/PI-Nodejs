@@ -1,16 +1,16 @@
 import * as service from '../services/products.service.js';
 import * as model from '../models/products.model.js';
 
-export const getAllProducts = (req, res) => {
-    res.json(service.getAllProducts());
+export const getAllProducts = async (req, res) => {
+    res.json(await model.getAllProducts());
 };
 
 export const searchProduct = (req, res) => {
     const { name } = req.query;
 
-    const product = service.getAllProducts();
+    const products = model.getAllProducts();
 
-    const filteredProducts = product.filter((p) =>
+    const filteredProducts = products.filter((p) =>
         p.name.toLowerCase().includes(name.toLowerCase())
     );
 

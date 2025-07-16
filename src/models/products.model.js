@@ -31,3 +31,16 @@ export const createProduct = (data) => {
 
     return newProduct;
 };
+
+export const delateProduct = (id) => {
+    const productIndex = products.findIndex((p) => p.id === id);
+
+    if (productIndex == -1) {
+        return null;
+    } else {
+        const product = products.splice(productIndex, 1);
+        fs.writeFileSync(jsonPath, JSON.stringify(products));
+
+        return product;
+    }
+};

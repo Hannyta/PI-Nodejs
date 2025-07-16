@@ -59,15 +59,19 @@ export const putProductId = (req, res) => {
     res.json(products[productIndex]);
 };
 
-export const deleteProductId = (req, res) => {
+export const deleteProduct = (req, res) => {
     const productId = parseInt(req.params.id, 10);
-    const productIndex = products.findIndex((p) => p.id === productId);
 
-    if (productIndex === -1) {
+    const product = model.deleteProduct(productId);
+
+    if (!product) {
         return res.status(404).json({
         status: 404,
         mensaje: ' 🥲 Producto no encontrado ❌',
         ruta: req.originalUrl
         })
     }
+
+    res.status(204).send();
+
 };

@@ -33,36 +33,34 @@ export const getProdcutById = (req, res) => {
     res.json(product);
 };
 
-export const createProduct = (req, res) => {
-    const { name, price } = req.body;
+export const createProduct = async (req, res) => {
+    const { name, price, categories } = req.body;
 
-    const newProduct = model.createProduct({ name, price});
+    const newProduct = await model.createProduct({ name, price, categories});
 
     res.status(201).json(createProduct);
 };
 
-export const putProductId = (req, res) => {
-    const productId = parseInt(req.params.id, 10);
-    const productIndex = products.findIndex((p) => p.id === productId);
+export async function updateProduct(id, productData) {
+    try {
+        const productRef = doc(productsCollection, id);
+        const snapshot = await getDoc(productRef);
 
-    if (productIndex === -1) {
-        return res.status(404).json({
-        status: 404,
-        mensaje: ' 🥲 Producto no encontrado ❌',
-        ruta: req.originalUrl
-        })
+        if (!snapshot.exists()) {
+            return false;
+        }
+
+        await setDoc(productRef, productData); //remplazo completo
+        return { id, ...productData};
+    } catch (error) {
+        console.error(error);
     }
-
-    const { name, price } = req.body;
-
-    products[productIndex] = { id: productId, name, price };
-    res.json(products[productIndex]);
 };
 
-export const deleteProduct = (req, res) => {
-    const productId = parseInt(req.params.id, 10);
+export const deleteProduct = async(req, res) => {
+    const productId = req.params.id;
 
-    const product = model.deleteProduct(productId);
+    const product = await model.deleteProduct(productId);
 
     if (!product) {
         return res.status(404).json({
@@ -73,5 +71,4 @@ export const deleteProduct = (req, res) => {
     }
 
     res.status(204).send();
-
 };

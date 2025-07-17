@@ -8,7 +8,7 @@ const json = fs.readFileSync(jsonPath, 'utf-8');
 const products = JSON.parse(json);
 
 import {db} from './data.js';
-import { collection, getDocs } from 'firebase/firestore';
+import { collection, getDocs, doc, getDoc, addDoc, setDoc, deleteDoc} from 'firebase/firestore';
 
 const productsCollection = collection(db, 'products');
 
@@ -25,28 +25,43 @@ export const getProductById = (id) => {
     return products.find((item) => item.id == id);
 };
 
-export const createProduct = (data) => {
-
-    const newProduct = {
-        id: products.length + 1,
-        ...data,
-    };
-  
-    products.push(newProduct);
-    fs.writeFileSync(jsonPath, JSON.stringify(products))
-
-    return newProduct;
+export const createProduct = async (data) => {
+    try {
+        const docRef = await addDoc(productsCollection, data);
+        return { id: docRef.id, ...data };
+    } catch (error) {
+        console.error(error);
+    }
 };
 
-export const deleteProduct = (id) => {
-    const productIndex = products.findIndex((p) => p.id === id);
+export async function updateProduct(id, productData) {
+    try {
+        const productRef = doc(productsCollection, id);
+        const snapshot = await getDoc(productRef);
 
-    if (productIndex == -1) {
-        return null;
-    } else {
-        const product = products.splice(productIndex, 1);
-        fs.writeFileSync(jsonPath, JSON.stringify(products));
+        if (!snapshot.exists()) {
+            return false;
+        }
 
-        return product;
+        await setDoc(productRef, productData); //remplazo completo
+        return { id, ...productData};
+    } catch (error) {
+        console.error(error);
+    }
+};
+
+export const deleteProduct = async (id) => {
+    try {
+        const productRef = doc(productsCollection, id);
+        const snapshot = await getDoc(productRef);
+
+        if (!snapshot.exists()) {
+            return false;
+        }
+
+        await deleteDoc(productRef);
+        return true;
+    } catch (error) {
+        console.error(error);
     }
 };
